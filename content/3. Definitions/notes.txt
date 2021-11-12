@@ -1,0 +1,24 @@
+1) voltage:
+Force to move electrical charges(electrons) in a closed path. Its unit is Volt (V)
+
+2) Current:
+It is Rate of flow of electrons. Its unit is Ampere (A)
+
+3) Resistance:
+It is opposition to flow of current. Its unit is ohms (Ω)
+
+4) Impedence:
+It is collective resistance of whole circuit to alternating current consisting of ohmic resistance(R) and reactance(Xl and Xc), represented by Z. Its unit is ohms (Ω)
+
+5) Inductive Reactance:
+The oppostion to change in current due to presence of inductor, represented by Xl. Its unit is ohms (Ω)
+
+5) Capacitive Reactance:
+The oppostion to change in voltage due to presence of capacitor, represented by Xc. Its unit is ohms (Ω)
+
+6) Short Circuit:
+In short circuit, current is maximum with neglible resistance while the potential difference is 0 
+
+
+7) Open Circuit:
+In open circuit, voltage between two terminals becomes equal to supply(rated) voltage with max resistance while the current flown is 0.

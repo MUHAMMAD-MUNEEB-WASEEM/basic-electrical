@@ -1,0 +1,13 @@
+In simple words,electricity is the flow of charge particles(electrons)
+
+Types of loads:
+
+1. REsistive 
+
+Voltage and Current are inphase. 
+
+(example: bulb) 
+
+2. Inductive (example: Refrigerator)
+
+3. Capacitive (example: capacitor banks)

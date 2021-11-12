@@ -1,0 +1,6 @@
+In series, current remains same in all resistors or loads while voltage varies according to resistance
+In parallel, voltage remains same in across resistors or loads while current varies
+
+Example:
+Lets take two bulbs. One is of 100 W and second is 50 W. Source is 110 V
+

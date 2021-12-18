@@ -1,0 +1,85 @@
+Intructor 1:
+Let we introduce ourselfs to you guys. 
+
+
+My name is Muhammad Khalid Khan and I have done Bachelors in 
+Electronics Engineering from Dawood University of Engineering and 
+Technology, one of the prestige university of Pakistan.Beside that, I have
+done many courses related to field, some of them are
+
+1. General Electrical
+2. Power System
+3. PLC, microprocessor and microcontroller
+4. Mechatronics
+5. Industrial Electronics
+6. Communication Systems and Linear Circuit
+7. Analog and Digital
+
+
+I have experienced of working in industries like General Tyre and Karachi Shipyard
+
+Intructor 2:
+
+My name is Muhammad Muneeb Waseem and I have done Bachelors in 
+Electric Engineering from NED University of Engineering and 
+Technology, a reputable engineering university in the world. Alongside that, I have
+done multiple courses in this area, some of them are
+
+1. Electrical Power Generation
+2. General Electrical
+3. Power System
+4. Microprocessor and microcontroller
+5. Industrial Electronics
+6. Communication Systems and Linear Circuit
+7. Analog and Digital
+
+
+I have experienced of working in industries like Gatron Industries Limited and 
+Karachi Shipyard
+
+
+
+
+Course Contents:
+
+This course is designed by two professional engineers. It is a 
+fundamental electrical course from basic to advance level. It is divided into two sections
+
+Theoritical and Practical Handsonn
+
+Theoritical section:
+It covers the following area
+
+1. Safety Rules
+2. What is Electricity? And different types of loads
+3. Basic Definitions
+4. Comparision of AC and DC source
+5. Electrical Components and their working
+6. Wire sizing as per current rating
+7. Difference between Single phase and Three Phase
+8. Difference between Relay and Contactor 
+9. Single Line Diagram (SLD)
+10. Forward and Reverse motor control SLD
+
+
+Practical Handson:
+Firstly, it will comprises concept about provided topics and each topic will be 
+explained with practical to get you guys complete idea about each and every 
+topic
+
+1. Series and Parallel circuit demonstration
+2. Open and Concealed wiring
+3. Stair and Godown wiring
+4. Mother of Controlling (using Relay)
+5. Demontration of Contactor with auxillary contacts
+6. Interlocking (using Contactor)
+7. Use of Limit Switch with Contactor
+8. Timer-based load controlling
+9. Series board
+10. Troubleshooting
+
+
+
+
+
+
